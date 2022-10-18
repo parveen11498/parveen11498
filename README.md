@@ -1,4 +1,4 @@
-- 👋 Hey!! It
+- 👋 Hey!! It Parvin 
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
@@ -8,4 +8,4 @@
 parveen11498/parveen11498 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-![AuadaFort](https://user-images.githubusercontent.com/58837691/196395669-f640a3e4-3426-48f5-823c-75b0aed78eac.jpeg)
+
